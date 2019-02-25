@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/arturbdr/poc-webpack/issues"
   },
-  "homepage": "https://github.com/arturbdr/poc-webpack#readme"
+  "homepage": "https://github.com/arturbdr/poc-webpack#readme",
+  "dependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
 }
